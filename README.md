@@ -1,6 +1,6 @@
 # Mathematics-Coursework-as-part-of-MSc-Data-Science
 
-This coursework was submitted as part of the Fundamenals of Computing mathematics module as part of my MSc Data Science. It has not yet been marked
+This coursework was submitted as part of the Fundamenals of Computing mathematics module as part of my MSc Data Science. I got 95%. I've corrected where I made mistakes and uploaded a "with corrections" version.
 
 ## Topics Covered include:
 
